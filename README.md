@@ -33,5 +33,5 @@ Tracks reminders, vaccines, and health logs.
 ---
 
 ## 📫 Reach Me
-- Email: yourmail@gmail.com
-- LinkedIn: (add later)
+- Email: Charu@stratschool.org
+- LinkedIn: www.linkedin.com/in/charumathy-narayanan-65b092100
